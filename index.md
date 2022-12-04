@@ -28,7 +28,7 @@ He also works on some CV and Multimedia applications, such as face recognition, 
 
 
 
-# Timeline
+# Timeline 
 
 * Jan. 2015 -- July 2016, postdoctoral researcher, Disney Research Pittsburgh with <a href="http://cs.brown.edu/%7Els/">Dr. Leon Sigal</a>
 * Sep. 2011 -- Nov. 2014 PhD in Computer Vision, Queen Mary University of London, with Prof. Tao Xiang (Tony) and Prof. Shaogang Gong (Sean)
