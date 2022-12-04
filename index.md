@@ -24,7 +24,7 @@ He is interested in the following ML/CV topics (with the corresponding selected 
 
 He also works on some CV and Multimedia applications, such as face recognition, person Re-ID, Sketch-based image retrieval/editing, image inpainting, Attack and Defence,Visual Sentiment Analysis, Video Understanding, Multi-object tracking, Semantic Segmentation. Please use the key words to search the corresponding papers from my Project Pages.
 
-<iframe src="//player.bilibili.com/player.html?aid=988263237&bvid=BV1Y44y1Q7qz&cid=912345802&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=988263237&bvid=BV1Y44y1Q7qz&cid=912345802&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
 
 
 
